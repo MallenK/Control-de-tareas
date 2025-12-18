@@ -1,0 +1,5 @@
+{
+  "name": "Supabase Auth Extended",
+  "description": "A robust authentication system using Supabase Auth with extended user profiles, implemented in React.",
+  "requestFramePermissions": []
+}
